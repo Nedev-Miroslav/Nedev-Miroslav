@@ -14,3 +14,6 @@ Miroslav Nedev
 
   </div>
 </div>
+
+
+- [![Java Course](java_course_image_url)](java_course_link)
