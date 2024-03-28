@@ -4,4 +4,4 @@ Miroslav Nedev
 
 
 
-ats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats)
