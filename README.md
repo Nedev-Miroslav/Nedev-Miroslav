@@ -4,5 +4,3 @@ Miroslav Nedev
 
 
 
-
-![Top Langs](https://github-readme-stats/top-langs/?username=myusername&theme=tokyonight)
