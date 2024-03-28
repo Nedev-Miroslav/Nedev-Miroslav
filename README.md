@@ -16,4 +16,4 @@ Miroslav Nedev
 </div>
 
 
-- [![Java Course](java_course_image_url)](java_course_link)
+- [![Java Course]([java_course_image_url](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg))](java_course_link)
