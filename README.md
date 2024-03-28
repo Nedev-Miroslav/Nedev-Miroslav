@@ -6,7 +6,7 @@ Miroslav Nedev
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=dark">
   </div>
