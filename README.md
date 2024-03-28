@@ -3,7 +3,14 @@ Miroslav Nedev
 💻 ⚖ I'm Miro, a lawyer studying software engineering at SoftUni!
 
 
-<div style="float: left; margin-right: 20px;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats)
-</div>
 
+
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=dark">
+  </div>
+  <div style="flex: 2;">
+
+  </div>
+</div>
