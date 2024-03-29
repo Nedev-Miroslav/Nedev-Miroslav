@@ -1,5 +1,6 @@
-
-Miroslav Nedev
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Hi, I'm Miroslav Nedev</text>
+</svg>
 
 💻 ⚖ I'm Miro, a lawyer studying software engineering at SoftUni!
 
