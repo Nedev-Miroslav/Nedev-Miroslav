@@ -5,5 +5,8 @@ Miroslav Nedev
 
 | Top Languages | GitHub Stats |
 |---|---|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pylapp&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | Miroslav Nedev's GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pylapp&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats)
+ |
 
