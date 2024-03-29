@@ -10,3 +10,7 @@ Miroslav Nedev
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=pylapp&show_icons=true&include_all_commits=true&theme=transparent&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats)
+
+
+
