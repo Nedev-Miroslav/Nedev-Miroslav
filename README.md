@@ -2,7 +2,9 @@ Miroslav Nedev
 
 💻 ⚖ I'm Miro, a lawyer studying software engineering at SoftUni!
 
-[![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=transparent&layout=compact)](https://github.com/Nedev-Miroslav)
+## Stats
+| Streak Stats |
+[![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=dark&layout=compact)](https://github.com/Nedev-Miroslav)
 
 | Top Languages | GitHub Stats |
 |---|---|
