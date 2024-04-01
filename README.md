@@ -15,6 +15,6 @@ Miroslav Nedev
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=donut&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
 
 ##
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=nord)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
 
 
