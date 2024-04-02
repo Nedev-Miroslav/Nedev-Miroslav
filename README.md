@@ -14,16 +14,7 @@ Miroslav Nedev
 |---|---|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=donut&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
 
-##
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        var links = document.querySelectorAll('table a');
-        links.forEach(function(link) {
-            link.setAttribute('target', '_blank');
-        });
-    });
-</script>
-
+## My acquired certificates from SoftUni
 | Courses | Certificates |
 |--------------|------------|
 | Programming Basics with Java       | [Link](https://softuni.bg/certificates/details/143565/8be11c3b) |
