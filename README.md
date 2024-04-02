@@ -30,4 +30,3 @@ Miroslav Nedev
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
 
-Data Structures Fundamentals (with Java)
