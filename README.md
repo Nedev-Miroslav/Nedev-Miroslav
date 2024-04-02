@@ -5,7 +5,7 @@ Miroslav Nedev
 ## About me
 💻 ⚖ I'm Miro, a lawyer studying software engineering at SoftUni!
 
-## Stats
+## 📊 Stats
 | Streak Stats |
 |------|
 | [![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=dark&layout=compact)](https://github.com/Nedev-Miroslav) |
@@ -14,7 +14,7 @@ Miroslav Nedev
 |---|---|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=donut&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
 
-## My acquired certificates from SoftUni
+## 📄 My acquired certificates from SoftUni
 |   Courses   |   Certificates   |
 |--------------|------------|
 | Programming Basics with Java       | [Link](https://softuni.bg/certificates/details/143565/8be11c3b)    |
@@ -27,6 +27,6 @@ Miroslav Nedev
 | MySQL       | [Link](https://softuni.bg/certificates/details/202766/b1a76e05)    |
 | Spring Data       | [Link](https://softuni.bg/certificates/details/209333/2d43a525)    |
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
 
