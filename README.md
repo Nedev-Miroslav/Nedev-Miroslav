@@ -17,9 +17,9 @@ Miroslav Nedev
 ##
 | Courses | Certificates |
 |--------------|------------|
-| Programming Basics with Java       | [Link](https://softuni.bg/certificates/details/143565/8be11c3b) |
-| Programming Fundamentals      | [Link](https://softuni.bg/certificates/details/167553/e33ce948) |
-| Java Advanced       | [Link](https://softuni.bg/certificates/details/174490/fa6e2c97) |
+| Programming Basics with Java       | [Link](https://softuni.bg/certificates/details/143565/8be11c3b){:target="_blank"} |
+| Programming Fundamentals      | [Link](https://softuni.bg/certificates/details/167553/e33ce948){:target="_blank"} |
+| Java Advanced       | [Link](https://softuni.bg/certificates/details/174490/fa6e2c97){:target="_blank"} |
 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
