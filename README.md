@@ -17,8 +17,8 @@ Miroslav Nedev
 ## 📄 My acquired certificates from SoftUni
 |   Courses   |   Certificates   |
 |--------------|------------|
-| Programming Basics with Java       | [Link](https://softuni.bg/certificates/details/143565/8be11c3b)    |
-| Programming Fundamentals      | [Link](https://softuni.bg/certificates/details/167553/e33ce948)    |
+| ** Programming Basics with Java **       | [Link](https://softuni.bg/certificates/details/143565/8be11c3b)    |
+| * Programming Fundamentals *     | [Link](https://softuni.bg/certificates/details/167553/e33ce948)    |
 | Java Advanced       | [Link](https://softuni.bg/certificates/details/174490/fa6e2c97)    |
 | Java OOP       | [Link](https://softuni.bg/certificates/details/181384/8f2c8b6b)    |
 | Data Structures Fundamentals (with Java)       | [Link](https://softuni.bg/certificates/details/188062/d77d4f65)    |
