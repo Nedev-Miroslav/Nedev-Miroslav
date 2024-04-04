@@ -33,4 +33,4 @@ Miroslav Nedev
 
 ## 📫 Contact Me
 📧 Email: miroslav.en.nedev@gmail
-🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) 
+💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) 
