@@ -1,7 +1,3 @@
-
-Miroslav Nedev
-
-
 ## About me
 💻 ⚖ I'm Miro, a lawyer studying software engineering at SoftUni! Combining my legal background with a passion for technology and programming.
 
