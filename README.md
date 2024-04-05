@@ -34,5 +34,5 @@
 
 
 
+![JavaScript](https://simpleicons.org/icons/javascript.svg) ![HTML](https://simpleicons.org/icons/html5.svg) ![CSS](https://simpleicons.org/icons/css3.svg) ![Python](https://simpleicons.org/icons/python.svg)
 
-![JavaScript](https://simpleicons.org/icons/javascript.svg)
