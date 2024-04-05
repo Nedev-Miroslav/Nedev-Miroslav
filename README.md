@@ -33,7 +33,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/miroslav-nedev-329045298) 
 
 
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20" height="20"> <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="20" height="20"> <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="20" height="20"> <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20" height="20">
+<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" alt="Python" width="50" height="50">
 
 
 
