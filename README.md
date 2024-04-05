@@ -40,7 +40,6 @@
 
 
 
-<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/git/git-plain.svg" alt="Git Bash" width="60" height="60">
-
+<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/getpostman/getpostman-original.svg" alt="Postman" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/git/git-plain.svg" alt="Git Bash" width="60" height="60">
 
 
