@@ -11,6 +11,10 @@
 |---|---|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=donut&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
 
+## 🛠️ Technologies Used
+<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
+
+
 ## 📄 My acquired certificates from SoftUni
 |   Courses   |   Certificates   |
 |--------------|------------|
@@ -38,8 +42,5 @@
 
 <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
 
-
-
-<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/getpostman/getp
 
 
