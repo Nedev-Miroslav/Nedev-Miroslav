@@ -31,3 +31,8 @@
 📧 Email: miroslav.en.nedev@gmail
 
 💼 [LinkedIn](https://www.linkedin.com/in/miroslav-nedev-329045298) 
+
+
+
+
+![JavaScript](https://simpleicons.org/icons/javascript.svg)
