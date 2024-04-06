@@ -37,7 +37,10 @@
 ## 📫 Contact Me
 📧 Email: miroslav.en.nedev@gmail.com
 
-💼 [LinkedIn](https://www.linkedin.com/in/miroslav-nedev-329045298) 
+💼 [LinkedIn](https://www.linkedin.com/in/miroslav-nedev-329045298)  
+📷 [Instagram][https://www.instagram.com/miroslav_nedev/) ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)
+📘 [Facebook](https://www.facebook.com/miroslav.nedev.96/) ![Facebook](https://img.icons8.com/color/48/000000/facebook.png)
+
 
 
 
