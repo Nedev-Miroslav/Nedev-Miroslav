@@ -35,7 +35,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
 
 ## 📫 Contact Me
-📧 Email: miroslav.en.nedev@gmail
+📧 Email: miroslav.en.nedev@gmail.com
 
 💼 [LinkedIn](https://www.linkedin.com/in/miroslav-nedev-329045298) 
 
