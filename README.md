@@ -1,6 +1,12 @@
 ## About me
 💻 ⚖ Hi I'm Miro, a lawyer studying software engineering at SoftUni! Combining my legal background with a passion for technology and programming.
 
+## 📫 Contact Me
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:miroslav.en.nedev@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/miroslav-nedev-329045298)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/miroslav_nedev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/miroslav.nedev.96/)
+
 ## 📊 Stats
 ### GitHub Streak
 
@@ -35,12 +41,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
 
 
-
-## 📫 Contact Me
-[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:miroslav.en.nedev@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/miroslav-nedev-329045298)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/miroslav_nedev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/miroslav.nedev.96/)
 
 
 
