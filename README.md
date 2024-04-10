@@ -45,3 +45,8 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
+
