@@ -2,6 +2,7 @@
 💻 ⚖ Hi I'm Miro, a lawyer studying software engineering at SoftUni! Combining my legal background with a passion for technology and programming.
 
 ---
+---
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/miroslav-nedev-329045298)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
