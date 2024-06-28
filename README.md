@@ -42,6 +42,7 @@
 | **JS Front-End**       | [*Link*](https://softuni.bg/certificates/details/199089/a87c963e)    |
 | **MySQL**       | [*Link*](https://softuni.bg/certificates/details/202766/b1a76e05)    |
 | **Spring Data**       | [*Link*](https://softuni.bg/certificates/details/209333/2d43a525)    |
+| **Spring Fundamentals**      | In progress    |
 
 ---
 
@@ -52,4 +53,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
 
---- 
+---
