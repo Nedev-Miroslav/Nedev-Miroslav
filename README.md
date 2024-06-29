@@ -55,3 +55,63 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
 
 ---
+
+
+---
+
+## 📄 My acquired certificates from SoftUni
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Courses</th>
+    <th>Certificates</th>
+  </tr>
+  <tr>
+    <td><b>Programming Basics with Java</b></td>
+    <td><a href="https://softuni.bg/certificates/details/143565/8be11c3b">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Programming Fundamentals</b></td>
+    <td><a href="https://softuni.bg/certificates/details/167553/e33ce948">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Java Advanced</b></td>
+    <td><a href="https://softuni.bg/certificates/details/174490/fa6e2c97">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Java OOP</b></td>
+    <td><a href="https://softuni.bg/certificates/details/181384/8f2c8b6b">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Data Structures Fundamentals (with Java)</b></td>
+    <td><a href="https://softuni.bg/certificates/details/188062/d77d4f65">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>HTML & CSS</b></td>
+    <td><a href="https://softuni.bg/certificates/details/190670/63b5b006">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>JS Front-End</b></td>
+    <td><a href="https://softuni.bg/certificates/details/199089/a87c963e">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>MySQL</b></td>
+    <td><a href="https://softuni.bg/certificates/details/202766/b1a76e05">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Spring Data</b></td>
+    <td><a href="https://softuni.bg/certificates/details/209333/2d43a525">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Spring Fundamentals</b></td>
+    <td>In progress</td>
+  </tr>
+  <tr>
+    <td><b>Spring Advanced</b></td>
+    <td>In progress</td>
+  </tr>
+</table>
+
+</div>
