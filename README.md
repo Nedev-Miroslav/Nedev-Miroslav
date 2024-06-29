@@ -14,9 +14,13 @@
 ---
 
 ## 📊 Stats
+<div align="center">
+
 ### GitHub Streak
 
-[![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=dark&layout=compact)](https://github.com/Nedev-Miroslav) 
+[![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=dark&layout=compact)](https://github.com/Nedev-Miroslav)
+
+</div>
 
 ### Top Languages & GitHub Stats
 | Top Languages | GitHub Stats |
