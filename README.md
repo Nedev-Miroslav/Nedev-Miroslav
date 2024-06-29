@@ -43,6 +43,7 @@
 | **MySQL**       | [*Link*](https://softuni.bg/certificates/details/202766/b1a76e05)    |
 | **Spring Data**       | [*Link*](https://softuni.bg/certificates/details/209333/2d43a525)    |
 | **Spring Fundamentals**      | In progress    |
+| **Spring Advanced**          | In progress    |
 
 ---
 
