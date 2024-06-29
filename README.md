@@ -22,8 +22,9 @@
 
 </div>
 
-### Top Languages & GitHub Stats
 <div align="center">
+  
+### Top Languages & GitHub Stats
   
 | Top Languages | GitHub Stats |
 |---|---|
