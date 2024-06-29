@@ -31,35 +31,6 @@
 ---
 
 ## 📄 My acquired certificates from SoftUni
-|   Courses   |   Certificates   |
-|--------------|------------|
-| **Programming Basics with Java**       | [*Link*](https://softuni.bg/certificates/details/143565/8be11c3b)    |
-| **Programming Fundamentals**     | [*Link*](https://softuni.bg/certificates/details/167553/e33ce948)    |
-| **Java Advanced**       | [*Link*](https://softuni.bg/certificates/details/174490/fa6e2c97)    |
-| **Java OOP**       | [*Link*](https://softuni.bg/certificates/details/181384/8f2c8b6b)    |
-| **Data Structures Fundamentals (with Java)**       | [*Link*](https://softuni.bg/certificates/details/188062/d77d4f65)    |
-| **HTML & CSS**       | [*Link*](https://softuni.bg/certificates/details/190670/63b5b006)    |
-| **JS Front-End**       | [*Link*](https://softuni.bg/certificates/details/199089/a87c963e)    |
-| **MySQL**       | [*Link*](https://softuni.bg/certificates/details/202766/b1a76e05)    |
-| **Spring Data**       | [*Link*](https://softuni.bg/certificates/details/209333/2d43a525)    |
-| **Spring Fundamentals**      | In progress    |
-| **Spring Advanced**          | In progress    |
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
-
----
-
-
----
-
-## 📄 My acquired certificates from SoftUni
 
 <div align="center">
 
@@ -115,3 +86,16 @@
 </table>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nedev-Miroslav&column=8&theme=onedark)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
+
+---
+
+
