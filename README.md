@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td><b>Spring Fundamentals</b></td>
-    <td>In progress</td>
+    <td><a href="https://softuni.bg/certificates/details/219319/0017c4d1">Link</a></td>
   </tr>
   <tr>
     <td><b>Spring Advanced</b></td>
