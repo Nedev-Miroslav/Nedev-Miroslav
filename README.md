@@ -7,30 +7,11 @@
 
 ## 📫 Contact Me
 
-<div align="center">
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/miroslav-nedev-329045298)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/miroslav.nedev.96/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/miroslav_nedev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:miroslav.en.nedev@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miroslav-nedev-329045298" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/miroslav.nedev.96/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/miroslav_nedev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:miroslav.en.nedev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/>
-  </a>
-</p>
 ---
 
 ## 📊 Stats
