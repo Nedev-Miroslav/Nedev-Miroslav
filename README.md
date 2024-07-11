@@ -46,7 +46,7 @@
 
 ---
 
-## 📄 My acquired certificates from SoftUni
+## 📄 My certificates from SoftUni
 
 <div align="center">
 
