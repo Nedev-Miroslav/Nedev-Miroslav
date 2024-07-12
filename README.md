@@ -14,38 +14,6 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-  
-### Top Languages & GitHub Stats
-  
-| Top Languages | GitHub Stats |
-|---|---|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=donut&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
-
-</div>
-
-
-<div align="center">
-
-### GitHub Streak
-
-[![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=dark&layout=compact)](https://github.com/Nedev-Miroslav)
-
-</div>
-
-
----
-
-
-## 🛠️ Technologies Used
-  <div align="center">
-<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/spring/spring-original.svg" alt="Spring" width="60" height="60">
-</div>
-
----
-
 ## 📄 My certificates from SoftUni
 
 <div align="center">
@@ -101,6 +69,39 @@
   </tr>
 </table>
 
+</div>
+
+---
+
+
+## 📊 Stats
+
+<div align="center">
+  
+### Top Languages & GitHub Stats
+  
+| Top Languages | GitHub Stats |
+|---|---|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=donut&langs_count=6&theme=dark)](https://github.com/Nedev-Miroslav/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&show_icons=true&include_all_commits=true&theme=dark&layout=compact&rank_icon=github)](https://github.com/Nedev-Miroslav/github-readme-stats) |
+
+</div>
+
+
+<div align="center">
+
+### GitHub Streak
+
+[![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Nedev-Miroslav&theme=dark&layout=compact)](https://github.com/Nedev-Miroslav)
+
+</div>
+
+
+---
+
+
+## 🛠️ Technologies Used
+  <div align="center">
+<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/spring/spring-original.svg" alt="Spring" width="60" height="60">
 </div>
 
 ---
