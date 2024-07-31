@@ -110,3 +110,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
 
 ---
+
+[![Commits](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
