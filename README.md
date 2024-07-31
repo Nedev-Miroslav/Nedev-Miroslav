@@ -110,6 +110,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
 
 ---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nedev-Miroslav&repo=SpringData2024&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Commits](https://github-readme-stats.vercel.app/api?username=Nedev-Miroslav&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
