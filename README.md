@@ -1,7 +1,7 @@
 ---
 
 ## ✒️ About me
-💻 ⚖ Hi I'm Miro, a lawyer studying software engineering at SoftUni! Combining my legal background with a passion for technology and programming.
+💻 ⚖ Hi I'm Miro, a lawyer studying software engineering at SoftUni! Combining my legal background with a passion for technology and programming. I believe this unique blend of skills can lead to innovative solutions and perspectives.
 
 ---
 
