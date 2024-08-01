@@ -110,3 +110,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nedev-Miroslav)
 
 ---
+
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
