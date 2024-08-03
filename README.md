@@ -12,7 +12,7 @@
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/miroslav_nedev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:miroslav.en.nedev@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
+**<p align="center">
   <a href="https://www.linkedin.com/in/miroslav-nedev-329045298">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
   <a href="mailto:miroslav.en.nedev@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p>**
 
 
 ---
