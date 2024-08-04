@@ -1,10 +1,10 @@
 ---
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A77F2&center=true&width=435&lines=Greeting+%F0%9F%91%8B+I'm+Miroslav+Nedev!">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A77F2&center=true&width=435&lines=Greeting+%F0%9F%91%8B+I'm+Miroslav+Nedev%21">
   </a>
 
-
+---
 
 ## ✒️ About me
 💻 ⚖ Hi I'm Miro, a lawyer studying software engineering at SoftUni! Combining my legal background with a passion for technology and programming. I believe this unique blend of skills can lead to innovative solutions and perspectives.
