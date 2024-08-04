@@ -1,7 +1,7 @@
 ---
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A77F2&center=true&width=435&lines=GGreeting+%F0%9F%91%8B+I'm+Miroslav+Nedev%21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A77F2&center=true&width=435&lines=GGreetings+%F0%9F%91%8B+I'm+Miroslav+Nedev%21">
   </a>
 
 ---
