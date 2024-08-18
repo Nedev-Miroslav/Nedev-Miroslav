@@ -1,4 +1,4 @@
----
+--- 
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=6000&pause=1000&color=1A77F2&center=true&vCenter=true&width=1000&height=66&lines=Greetings+%F0%9F%91%8B+I'm+Miroslav+Nedev%21">
