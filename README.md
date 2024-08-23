@@ -80,6 +80,14 @@
     <td><b>Spring Advanced</b></td>
     <td><a href="https://softuni.bg/certificates/details/223329/ddeee510">Link</a></td>
   </tr>
+    <tr>
+    <td><b>Software Engineering and DevOps</b></td>
+    <td>In progress</td>
+  </tr>
+  <tr>
+    <td><b>Containers and Cloud</b></td>
+    <td>In progress</td>
+  </tr>
 </table>
 
 </div>
