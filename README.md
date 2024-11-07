@@ -82,7 +82,7 @@
   </tr>
     <tr>
     <td><b>Software Engineering and DevOps</b></td>
-    <td>In progress</td>
+    <td><a href="https://softuni.bg/certificates/details/229460/37efdc5c">Link</a></td>
   </tr>
   <tr>
     <td><b>Containers and Cloud</b></td>
