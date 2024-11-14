@@ -22,7 +22,8 @@
 
 ## 🛠️ Technologies Used
   <div align="center">
-<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/spring/spring-original.svg" alt="Spring" width="60" height="60">
+<img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/spring/spring-original.svg" alt="Spring" width="60" height="60">  <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/docker/docker-original.svg" alt="Docker" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60">
 </div>
 
 ---
