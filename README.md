@@ -30,7 +30,7 @@
 ## 🎓 Diploma
 
  <div align="center">
- 🎓Java Web Developer<a href="https://softuni.bg/certificates/details/229890/b7159eec">Link to Diploma</a>
+ 🎓Java Web Developer   <a href="https://softuni.bg/certificates/details/229890/b7159eec">Link to Diploma</a>
 </div>
 
 ---
