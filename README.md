@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td><b>Containers and Cloud</b></td>
-    <td>In progress</td>
+    <td><a href="https://softuni.bg/certificates/details/232850/87cd2c11">Link</a></td>
   </tr>
 </table>
 
