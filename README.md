@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60">
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/git/git-original.svg" alt="Git" width="60" height="60">
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/docker/docker-original.svg" alt="Docker" width="60" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"> -->
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/azure/azure-original.svg" alt="Azure" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60" height="60">
