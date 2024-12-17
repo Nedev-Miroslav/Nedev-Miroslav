@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/spring/spring-original.svg" alt="Spring" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="60" height="60">
-  <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="60" height="60">
+<!--   <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="60" height="60"> -->
   <br>
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60">
   <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/git/git-original.svg" alt="Git" width="60" height="60">
